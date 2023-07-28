@@ -1,6 +1,6 @@
 # Install and Deploy ChatGPT to NeonAI Diana 
 
-ChatGPT is a large-language-model-based AI chatbot developed and maintained by OpenAI. This tutorial demonstrates using [NeonAI Diana](https://github.com/NeonGeckoCom/neon-diana-utils) to configure and deploy ChatGPT in NeonAI.
+[ChatGPT](https://chat.openai.com/) is a large-language-model-based AI chatbot developed and maintained by OpenAI. This tutorial demonstrates using [NeonAI Diana](https://github.com/NeonGeckoCom/neon-diana-utils) to configure and deploy ChatGPT in NeonAI.
 
 ## Prerequisites
 
