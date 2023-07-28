@@ -123,7 +123,7 @@ c. Connect to NeonCore, either by using a wake word or by launching the Neon CLI
 
 a. Use `Talk to ChatGPT` to start using ChatGPT in NeonAI.
 
-IMAGE: SCREENSHOT
+![ChatGPT in NeonAI](chatgpt-in-neon-ai.png)
 
 
 
