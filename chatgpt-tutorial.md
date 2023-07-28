@@ -8,7 +8,7 @@ This tutorial uses a local installation of NeonAI Diana running on Microk8s, and
 
 * A [ChatGPT API key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key).
 * [Diana 1.0](https://github.com/NeonGeckoCom/neon-diana-utils/blob/dev/README.md). 
-    * Follow the instructions in the [NeonAI Diana README]((https://github.com/NeonGeckoCom/neon-diana-utils/blob/dev/README.md)) to set up Diana with Microk8s.
+    * Follow the instructions in the [NeonAI Diana README](https://github.com/NeonGeckoCom/neon-diana-utils/blob/dev/README.md) to set up Diana with Microk8s.
     * Use the subnet `10.10.10.10-10.10.10.10`.
     * Add `10.10.10.10 chatgpt.example.com` to the `/etc/hosts` file.
 * [NeonCore](https://github.com/NeonGeckoCom/NeonCore) 27 or later.
